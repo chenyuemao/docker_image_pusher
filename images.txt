@@ -8,6 +8,7 @@ python:alpine3.19
 centos:8
 tomcat:8.5.69
 mysql:latest
-nginx:1.27.2
 redis:7.4.1
+nginx:1.27.2
+
 
